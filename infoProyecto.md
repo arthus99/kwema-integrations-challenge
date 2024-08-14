@@ -1,5 +1,7 @@
 # fastapi
 
+## *** Nota (El proyecto no esta terminado y subi lo que tenía. Sorry *** .)
+
 Debido a:
 1. Alto Rendimiento
 2. Documentación Automática
@@ -27,10 +29,10 @@ Archivo | Descripción
 | models.py | BaseModel |
 | github_apy.py | Github integration file |
 | metricas  ( Carpeta )|
-| activity.py | |
-| activiti_pattern.py | |
+| activity.py | Contribuciones en los últimos 6 meses |
+| activiti_pattern.py | Alta Actividad |
 | base.py | Interface de Metricas |
-| languages.py |
+| languages.py | Los 3 lenguajes de programación más usados |
 | pull_requests.py | 
  
 
